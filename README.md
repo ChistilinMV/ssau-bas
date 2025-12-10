@@ -3,9 +3,11 @@
 # Автор Чистилин Максим 10.12.2025
 #======================================================================
 
-snake_mission_Chistilin.py - Скрипт для создания и загрузки миссии в полетный контроллер ArduCopter
+[snake_mission_Chistilin.py](https://github.com/ChistilinMV/ssau-bas/blob/main/snake_mission_Chistilin.py) - Скрипт для создания и загрузки миссии в полетный контроллер ArduCopter
 
 [Видео презентации проекта](https://disk.yandex.ru/i/e20ix9zaytWM5w)
 
 [Техническое задание](https://github.com/ChistilinMV/ssau-bas/blob/main/TZ_final_work_ChistilinMV.zip)
+
+
 
