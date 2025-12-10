@@ -7,7 +7,7 @@
 
 [Видео презентации проекта](https://disk.yandex.ru/i/e20ix9zaytWM5w)
 
-[Техническое задание](https://github.com/ChistilinMV/ssau-bas/blob/main/TZ_final_work_ChistilinMV.zip)
+[Техническое задание (zip)](https://github.com/ChistilinMV/ssau-bas/blob/main/TZ_final_work_ChistilinMV.zip) - docx в github не открывается, лучше скачать архив и распаковать
 
 
 
